@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2, C3",1206,3,47uF,C96123
+C4,0603,1,100nF,C14663
+"J1, J2",PinHeader_1x14_P2.54mm_Vertical,2,Teensy,-
+J4,Jack_3.5mm_CUI_SJ1-3523N_Horizontal,1,minijack,C2884991
+R1,0603,1,10Ω,C22859
+U1,SOIC-8_3.9x4.9mm_P1.27mm,1,PT8211,C5260468
